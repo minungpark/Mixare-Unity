@@ -11,3 +11,7 @@
 실시간 네비게이션 기능이 제대로 작동하지 않고 있습니다.
 
 이유는 불명입니다. 저도 잘 아는게 아니라서 아쉬울 따름입니다.
+
+## 구현 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ps5obYMwXwA?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

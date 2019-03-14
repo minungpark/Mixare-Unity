@@ -14,4 +14,4 @@
 
 ## 구현 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ps5obYMwXwA?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![예제](http://img.youtube.com/vi/Ps5obYMwXwA/0.jpg)](https://youtu.be/Ps5obYMwXwA?t=0s) 

@@ -15,3 +15,5 @@
 ## 구현 영상
 
 [![예제](http://img.youtube.com/vi/Ps5obYMwXwA/0.jpg)](https://youtu.be/Ps5obYMwXwA?t=0s) 
+
+(클릭하면 유튜브 링크로 넘어갑니다.)
